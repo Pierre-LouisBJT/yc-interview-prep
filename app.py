@@ -62,13 +62,14 @@ async def setup_openai_realtime():
         openai_realtime.add_tool(tool_def, tool_handler)
         for tool_def, tool_handler in tools
     ]
+    print("Adding tools")
     await asyncio.gather(*coros)
 
 
 @cl.on_chat_start
 async def start():
     await cl.Message(
-        content="Welcome to the Chainlit x OpenAI realtime example. Press `P` to talk!"
+        content="Welcome to this mock YC interview. Press `P` to talk! No need to type."
     ).send()
     await setup_openai_realtime()
 
