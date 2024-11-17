@@ -97,7 +97,7 @@ github = "https://github.com/Pierre-LouisBJT/yc-interview-prep"
     #paper = "#FFFFFF"
 
     [UI.theme.light.primary]
-        #main = "#F80061"
+        main = "#f26522"
         #dark = "#980039"
         #light = "#FFE7EB"
     [UI.theme.light.text]
@@ -110,7 +110,7 @@ github = "https://github.com/Pierre-LouisBJT/yc-interview-prep"
     #paper = "#FFFFFF"
 
     [UI.theme.dark.primary]
-        #main = "#F80061"
+        main = "#f26522"
         #dark = "#980039"
         #light = "#FFE7EB"
     [UI.theme.dark.text]

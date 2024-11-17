@@ -62,7 +62,6 @@ async def setup_openai_realtime():
         openai_realtime.add_tool(tool_def, tool_handler)
         for tool_def, tool_handler in tools
     ]
-    print("Adding tools")
     await asyncio.gather(*coros)
 
 
