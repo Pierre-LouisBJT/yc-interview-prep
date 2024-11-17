@@ -4,7 +4,10 @@
 
 So you have an interview with Y Combinator coming up (or a VC pitch)? This project is a mock YC interview where you will be able to talk in real time with an AI YC partner.
 
-See a demo below:
+See a demo below (sound on):
+
+https://github.com/user-attachments/assets/1a45dabf-52fe-402d-8d39-cc31d4f6fb13
+
 
 ## Installation
 
