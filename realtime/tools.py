@@ -2,7 +2,7 @@ import chainlit as cl
 
 give_feedback_on_answer_def = {
     "name": "give_feedback_on_answer",
-    "description": "As a Y Combinator partner, provide a short feedback on the answer the user gave to your question. This function shoudl be called after the user has answered a question.",
+    "description": "As a Y Combinator partner, provide a short feedback on the answer the user gave to your question. This function should be called after the user has answered a question.",
     "parameters": {
         "type": "object",
         "properties": {
