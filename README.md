@@ -2,7 +2,9 @@
 
 > This is a personal project. It is not affiliated with the Y Combinator in any way.
 
-Get ready for that YC interview!
+So you have an interview with Y Combinator coming up (or a VC pitch)? This project is a mock YC interview where you will be able to talk in real time with an AI YC partner.
+
+See a demo below:
 
 ## Installation
 
@@ -10,6 +12,7 @@ First, clone the repository:
 
 ```bash
 git clone https://github.com/Pierre-LouisBJT/yc-interview-prep.git
+cd yc-interview-prep
 ```
 
 Then, install the requirements:
