@@ -17,8 +17,6 @@ give_feedback_on_answer_def = {
 
 
 async def give_feedback_on_answer_handler(feedback):
-    print("feedback handler")
-    print(feedback)
     await cl.Message(content=feedback).send()
 
 
