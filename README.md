@@ -1,4 +1,4 @@
-# Mock YC interview using OpenAI real time API
+# Mock Y Combinator interview using OpenAI real time API
 
 > This is a personal project. It is not affiliated with the Y Combinator in any way.
 
@@ -7,7 +7,6 @@ So you have an interview with Y Combinator coming up (or a VC pitch)? This proje
 See a demo below (sound on):
 
 https://github.com/user-attachments/assets/1a45dabf-52fe-402d-8d39-cc31d4f6fb13
-
 
 ## Installation
 
@@ -39,3 +38,7 @@ chainlit run app.py
 ```
 
 It should open a new tab in your browser with the chat interface (or just go to `http://localhost:8000`). You need to allow access to your microphone. Only tested on Chrome for now.
+
+## Acknowledgements
+
+This project is built using the OpenAI Realtime API and Chainlit.
